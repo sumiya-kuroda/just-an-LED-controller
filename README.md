@@ -6,3 +6,4 @@ Just an LED controller, but it works with ScanImage
 - Arduino Uno
 - BNC terminal x3
 - BNC splitter x3
+- [Relay](https://www.amazon.co.uk/dp/B09M62VCGX?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1) x3
