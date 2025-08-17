@@ -1,6 +1,8 @@
 # just-an-LED-controller
 Just an LED controller, but it works with ScanImage
 
+<img width="424" height="564" alt="img" src="https://github.com/user-attachments/assets/b8db7837-dfbc-437f-b9d4-599bf5795b1e" />
+
 ## Wiring diagram
 Made by Circuit Canvas.
 
